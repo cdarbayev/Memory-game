@@ -1,2 +1,2 @@
 # Memory-game
-Simple tile guesser
+Simple tile guesser using SFML
